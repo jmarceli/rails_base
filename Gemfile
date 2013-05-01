@@ -13,7 +13,7 @@ group :development, :test do
   gem 'guard', '~> 1.8'
   gem 'guard-spork', '~> 1.5'
   gem 'guard-rspec', '~> 2.6'
-
+end
 
 # Gems used only for assets and not required
 # in production environments by default.
