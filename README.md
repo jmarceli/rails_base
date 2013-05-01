@@ -18,6 +18,6 @@ launchy gem is not installed because it somehow breaks Guard and hides Rspec mes
 ### Download:
 1. Open terminal
 2. Go to the directory of your choice
-3. Type inside terminal
-    git clone git://github.com/jmarceli/rails_base.git
+3. Type inside terminal:
 
+    git clone git://github.com/jmarceli/rails_base.git
