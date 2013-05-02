@@ -24,3 +24,7 @@ launchy gem is not installed because it somehow breaks Guard and hides Rspec mes
 3. Type inside terminal:
 
     git clone git://github.com/jmarceli/rails_base.git
+
+## Request for comments
+
+If anyone saw something wrong inside this repo please report because as a beginner I probably made a few mistakes.
