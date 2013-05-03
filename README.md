@@ -24,15 +24,15 @@ launchy gem is not installed because it somehow breaks Guard and hides Rspec mes
 2. Go to the directory of your choice
 3. Type inside terminal:
 
-    git clone git://github.com/jmarceli/rails_base.git
+        git clone git://github.com/jmarceli/rails_base.git
 
 4. Rename application to your_app_name by typing 
 
-    rails g rename:app_to your_app_name
+        rails g rename:app_to your_app_name
 
 5. Detach application from this repository
 
-    git remote rm origin
+        git remote rm origin
 
 6. You have your own tutorial ready application with guard, spork and rspec installed
 
