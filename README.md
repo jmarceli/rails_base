@@ -34,7 +34,7 @@ launchy gem is not installed because it somehow breaks Guard and hides Rspec mes
 
     git remote rm origin
 
-6. You have your own preinstalled tutrial application with guard, spork and rspec installed
+6. You have your own tutorial ready application with guard, spork and rspec installed
 
 ## Request for comments
 
