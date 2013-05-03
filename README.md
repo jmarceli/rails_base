@@ -16,6 +16,7 @@ launchy gem is not installed because it somehow breaks Guard and hides Rspec mes
 - guard
 - guard-rspec
 - guard-spork
+- rename
 
 ## Download:
 
@@ -24,6 +25,11 @@ launchy gem is not installed because it somehow breaks Guard and hides Rspec mes
 3. Type inside terminal:
 
     git clone git://github.com/jmarceli/rails_base.git
+
+4. Rename application to your_app_name by typing
+
+    rails g rename:rails_base your_app_name
+
 
 ## Request for comments
 
