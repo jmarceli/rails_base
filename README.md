@@ -30,7 +30,12 @@ launchy gem is not installed because it somehow breaks Guard and hides Rspec mes
 
     rails g rename:app_to your_app_name
 
+5. Detach application from this repository
+
+    git remote rm origin
+
+6. You have your own preinstalled tutrial application with guard, spork and rspec installed
 
 ## Request for comments
 
-If anyone saw something wrong inside this repo please report because as a beginner I probably made a few mistakes.
+If anyone sees that something is wrong inside this repo please report because as a beginner I probably made a few mistakes.
