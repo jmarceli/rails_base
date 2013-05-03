@@ -26,9 +26,9 @@ launchy gem is not installed because it somehow breaks Guard and hides Rspec mes
 
     git clone git://github.com/jmarceli/rails_base.git
 
-4. Rename application to your_app_name by typing
+4. Rename application to your_app_name by typing 
 
-    rails g rename:rails_base your_app_name
+    rails g rename:app_to your_app_name
 
 
 ## Request for comments
